@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1091373269921",
+    "firebase_url": "https://m11chat-28804.firebaseio.com",
+    "project_id": "m11chat-28804",
+    "storage_bucket": "m11chat-28804.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091373269921:android:2d0da7cc59929c95",
+        "android_client_info": {
+          "package_name": "com.knxvt.alwizen.a3m11chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091373269921-pl616glqtc97kimf331acqe2qh2gmkit.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.knxvt.alwizen.a3m11chat",
+            "certificate_hash": "2A03682E127F9FF3BB328D5721E7D86DAD790125"
+          }
+        },
+        {
+          "client_id": "1091373269921-h62eemp26kkeb0n4kvfb1oag6i6nt8p5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6a_iSOVXZ-jcdRP2RX7qjRv4XVpURYr8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091373269921-h62eemp26kkeb0n4kvfb1oag6i6nt8p5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
